@@ -1,4 +1,4 @@
-#TO-DO List Client/Server App
+# TO-DO List Client/Server App
 
 **Running the app:**
 1.  Run Server side by running [node server.js]

@@ -1,5 +1,8 @@
 # TO-DO List Client/Server App
 
+**Demo:**
+https://user-images.githubusercontent.com/102758894/179929080-aade29c9-2ea9-48b4-94a4-1738fc978300.mp4
+
 **Running the app:**
 1.  Run Server side by running [node server.js]
 2.  Run Client side by running [npm start] in ./client/src
